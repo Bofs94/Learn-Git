@@ -7,3 +7,10 @@ my friend is khaled
 my friend is omar
 my friend is drake
 my friend is ali
+
+HTML is easy
+CSS is fun
+JS is hell
+
+
+
