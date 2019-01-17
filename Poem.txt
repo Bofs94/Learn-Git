@@ -5,3 +5,7 @@ my lame is rustafa
 
 my friend is khaled
 my friend is omar
+
+HTML is easy
+CSS is fun
+JS is hell
